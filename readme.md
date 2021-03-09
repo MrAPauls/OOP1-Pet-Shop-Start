@@ -9,6 +9,7 @@ Instructions and Resources for Object Oriented Programming Assignment  1 - Pet S
 3) Determine how the pets list is being used to allow user choice of pet to interact with.
 
 4) Additional Video instructions are available here:
+
 Video Instructions 1 -> https://drive.google.com/file/d/1cAj-jcSOHMnuty2B70kHoKW0s7zaZ39l/view 
 
 Video Instructions 2 -> https://drive.google.com/file/d/1cAj-jcSOHMnuty2B70kHoKW0s7zaZ39l/view
