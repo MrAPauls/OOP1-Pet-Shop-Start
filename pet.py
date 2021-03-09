@@ -11,6 +11,7 @@ class Pet():
         self.animal = None
         self.description = None
         ''' Add an attribute called noise '''
+        ##[ /3] Add NOISE: ATTRIBUTE, SETTER, GETTER
     
     #Getter Methods
     def get_name(self):
@@ -42,14 +43,14 @@ class Pet():
     #Other Methods
     
     #Describe the pet
-    def describe(self):
+    def describe(self):   ##[ /3] Code the DESCRIBE method
         print(self.name)
         ''' add code so that the pet is described to the customer
         1) A sentence with the pet name and animal type
         2) The description of the animal.   '''
     
     #Speak with the pet
-    def pet_talk(self, greeting):
+    def pet_talk(self, greeting):  ##[ /3] Code the TALK method
         ''' The animal should make noise for every word in the greeting
             For Example:  "Here kitty kitty!"  Would result in 'Meow!Meow!Meow!  
             and Exampel:  "Roll over!"         Would result in 'Woof!Woof!'   
