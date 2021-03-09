@@ -28,6 +28,10 @@ shadow.set_description('Shy, with all dark fur. She likes to hide behind furnitu
 pets.append(shadow)
 
 ''' Add your own pet(s) here '''
+#[ /6] Add TWO additional pets
+#set animal, description, and noise
+#add pet to the pets list
+
 
 
 
