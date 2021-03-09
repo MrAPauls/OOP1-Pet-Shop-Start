@@ -6,7 +6,7 @@ Instructions and Resources for Object Oriented Programming Assignment  1 - Pet S
 
 2) Identify the attributes, setter and getter methods in PET.py.
 
-3) Determine how the pets list is being used to allow user choice of pet to interact with.
+3) Observe the pets list is being used to allow user choice of pet to interact with.
 
 4) Additional Video instructions are available here:
 
