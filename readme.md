@@ -36,7 +36,7 @@ Video Instructions 2 -> https://drive.google.com/file/d/1cAj-jcSOHMnuty2B70kHoKW
 
 #in MAIN.py
 
-##[/6] Add two additional pets
+##[ /6] Add two additional pets
 #set animal, description, and noise
 #add pet to the pets list
 
